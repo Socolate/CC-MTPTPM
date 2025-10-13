@@ -1,0 +1,67 @@
+D:\DoAn_C#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\DoAn_C#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\DoAn_C#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.QLSV.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.QL_SV.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.Search.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.NhapDiem.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.QLKHOA.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.XemDiem.resources
+D:\DoAn_C#\QLSV\QLSV\obj\Debug\QLSV.CN_MONHOC.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.CN_MONHOC.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.NhapDiem.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.QLKHOA.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.QLSV.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.QL_SV.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.Search.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.txt_MaMonHoc.resources
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.CN_MONHOC.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.NhapDiem.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.QLKHOA.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.QLSV.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.QL_SV.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.Search.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.txt_MaMonHoc.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+D:\HK4-2025\DAMH_KHIEM_HUY\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.CN_MONHOC.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.NhapDiem.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.QLKHOA.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.QLSV.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.QL_SV.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.Search.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.txt_MaMonHoc.resources
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\ADMIN\Desktop\New folder\QLSV\QLSV\obj\Debug\QLSV.pdb

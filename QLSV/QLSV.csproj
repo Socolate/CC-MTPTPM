@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{32D26AD9-C6DA-4691-B389-540DAE922FCF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLSV</RootNamespace>
+    <AssemblyName>QLSV</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\CHUYENNGANHBUS.cs" />
+    <Compile Include="BUS\KHOABUS.cs" />
+    <Compile Include="BUS\LOPBUS.cs" />
+    <Compile Include="BUS\MONHOCBUS.cs" />
+    <Compile Include="BUS\NHAPDIEMBUS.cs" />
+    <Compile Include="BUS\SINHVIENBUS.cs" />
+    <Compile Include="BUS\XemDiemBUS.cs" />
+    <Compile Include="BUS\XEMTHONGTINBUS.cs" />
+    <Compile Include="GUI\CN_MONHOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CN_MONHOC.Designer.cs">
+      <DependentUpon>CN_MONHOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\CHUYENNGANHDAO.cs" />
+    <Compile Include="DAO\DataProvide.cs" />
+    <Compile Include="DAO\KHOADAO.cs" />
+    <Compile Include="DAO\LOPDAO.cs" />
+    <Compile Include="DAO\MONHOCDAO.cs" />
+    <Compile Include="DAO\NHAPDIEMDAO.cs" />
+    <Compile Include="DAO\SINHVIENDAO.cs" />
+    <Compile Include="DAO\XemDiemDAO.cs" />
+    <Compile Include="DAO\XEMTHONGTINDAO.cs" />
+    <Compile Include="DTO\CHUYENGANHDTO.cs" />
+    <Compile Include="DTO\KhoaDTO.cs" />
+    <Compile Include="DTO\LOPDTO.cs" />
+    <Compile Include="DTO\MONHOCDTO.cs" />
+    <Compile Include="DTO\NhapDiemDTO.cs" />
+    <Compile Include="DTO\SinhVienDTO.cs" />
+    <Compile Include="GUI\NhapDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\NhapDiem.Designer.cs">
+      <DependentUpon>NhapDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QLKHOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QLKHOA.Designer.cs">
+      <DependentUpon>QLKHOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QL_SV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QL_SV.Designer.cs">
+      <DependentUpon>QL_SV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QLSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QLSV.Designer.cs">
+      <DependentUpon>QLSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\XemDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\XemDiem.Designer.cs">
+      <DependentUpon>XemDiem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\CN_MONHOC.resx">
+      <DependentUpon>CN_MONHOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\NhapDiem.resx">
+      <DependentUpon>NhapDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\QLKHOA.resx">
+      <DependentUpon>QLKHOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QLSV.resx">
+      <DependentUpon>QLSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QL_SV.resx">
+      <DependentUpon>QL_SV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\XemDiem.resx">
+      <DependentUpon>XemDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

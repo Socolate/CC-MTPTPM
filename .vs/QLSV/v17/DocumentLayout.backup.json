@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\xemdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\xemdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|c:\\users\\admin\\onedrive\\desktop\\qlsv\\qlsv\\gui\\ql_sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\ql_sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\xemdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\xemdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\ql_sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\ql_sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\bus\\sinhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\bus\\sinhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\dto\\nhapdiemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dto\\nhapdiemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\dao\\dataprovide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dao\\dataprovide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\dao\\nhapdiemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dao\\nhapdiemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\dao\\xemdiemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dao\\xemdiemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\bus\\nhapdiembus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\bus\\nhapdiembus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\bus\\xemdiembus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\bus\\xemdiembus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\dao\\sinhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dao\\sinhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\gui\\qlkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\gui\\qlkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\qlsv\\dao\\chuyennganhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D26AD9-C6DA-4691-B389-540DAE922FCF}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dao\\chuyennganhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhapDiemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DTO\\NhapDiemDTO.cs",
+              "RelativeDocumentMoniker": "QLSV\\DTO\\NhapDiemDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DTO\\NhapDiemDTO.cs",
+              "RelativeToolTip": "QLSV\\DTO\\NhapDiemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:37:02.233Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\Search.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\Search.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\New folder\\QLSV\\QLSV\\GUI\\Search.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\New folder\\QLSV\\QLSV\\GUI\\Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:50:52.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QLSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\QLSV.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\QLSV.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\New folder\\QLSV\\QLSV\\GUI\\QLSV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\New folder\\QLSV\\QLSV\\GUI\\QLSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:15:14.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QLKHOA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\QLKHOA.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\QLKHOA.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\New folder\\QLSV\\QLSV\\GUI\\QLKHOA.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\New folder\\QLSV\\QLSV\\GUI\\QLKHOA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:15:12.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XemDiemDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\XemDiemDAO.cs",
+              "RelativeDocumentMoniker": "QLSV\\DAO\\XemDiemDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\XemDiemDAO.cs",
+              "RelativeToolTip": "QLSV\\DAO\\XemDiemDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:40:18.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NHAPDIEMBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\BUS\\NHAPDIEMBUS.cs",
+              "RelativeDocumentMoniker": "QLSV\\BUS\\NHAPDIEMBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\BUS\\NHAPDIEMBUS.cs",
+              "RelativeToolTip": "QLSV\\BUS\\NHAPDIEMBUS.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:11:15.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SINHVIENBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\BUS\\SINHVIENBUS.cs",
+              "RelativeDocumentMoniker": "QLSV\\BUS\\SINHVIENBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\BUS\\SINHVIENBUS.cs",
+              "RelativeToolTip": "QLSV\\BUS\\SINHVIENBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:03:32.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XemDiemBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\BUS\\XemDiemBUS.cs",
+              "RelativeDocumentMoniker": "QLSV\\BUS\\XemDiemBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\BUS\\XemDiemBUS.cs",
+              "RelativeToolTip": "QLSV\\BUS\\XemDiemBUS.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:03:27.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhapDiem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\NhapDiem.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\NhapDiem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\NhapDiem.cs",
+              "RelativeToolTip": "QLSV\\GUI\\NhapDiem.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAApwLYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:03:40.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XemDiem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\XemDiem.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\XemDiem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\XemDiem.cs",
+              "RelativeToolTip": "QLSV\\GUI\\XemDiem.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAApwHEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:24:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XemDiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\XemDiem.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\XemDiem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\XemDiem.cs [Design]",
+              "RelativeToolTip": "QLSV\\GUI\\XemDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:24:32.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NHAPDIEMDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\NHAPDIEMDAO.cs",
+              "RelativeDocumentMoniker": "QLSV\\DAO\\NHAPDIEMDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\NHAPDIEMDAO.cs",
+              "RelativeToolTip": "QLSV\\DAO\\NHAPDIEMDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:04:58.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QL_SV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\QL_SV.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\QL_SV.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\QL_SV.cs [Design]",
+              "RelativeToolTip": "QLSV\\GUI\\QL_SV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:11:22.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QL_SV.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\QL_SV.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\QL_SV.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\QL_SV.cs",
+              "RelativeToolTip": "QLSV\\GUI\\QL_SV.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAcwLUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:45:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CHUYENNGANHDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\CHUYENNGANHDAO.cs",
+              "RelativeDocumentMoniker": "QLSV\\DAO\\CHUYENNGANHDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\CHUYENNGANHDAO.cs",
+              "RelativeToolTip": "QLSV\\DAO\\CHUYENNGANHDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:24:49.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhapDiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\NhapDiem.cs",
+              "RelativeDocumentMoniker": "QLSV\\GUI\\NhapDiem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\GUI\\NhapDiem.cs [Design]",
+              "RelativeToolTip": "QLSV\\GUI\\NhapDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:33:13.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SINHVIENDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\SINHVIENDAO.cs",
+              "RelativeDocumentMoniker": "QLSV\\DAO\\SINHVIENDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\SINHVIENDAO.cs",
+              "RelativeToolTip": "QLSV\\DAO\\SINHVIENDAO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:24:53.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataProvide.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\DataProvide.cs",
+              "RelativeDocumentMoniker": "QLSV\\DAO\\DataProvide.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLSV\\QLSV\\DAO\\DataProvide.cs",
+              "RelativeToolTip": "QLSV\\DAO\\DataProvide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:38:45.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
